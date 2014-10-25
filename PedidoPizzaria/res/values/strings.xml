@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PedidoPizzaria</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="txtQueijo">Queijo</string>
+    <string name="txtPortuguesa">Portuguesa</string>
+    <string name="txtCalabresa">Calabresa</string>
+    <string name="txtCalcular">Calcular Preço</string>
+    <string name="txtBorda">Borda Recheada?</string>
+    <string name="txtPizza">Pizza</string>
+
+</resources>
